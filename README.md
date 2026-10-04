@@ -1,12 +1,12 @@
 <!-- rickstaa fork -->
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=godwincod3s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=godwincod3s&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Joseph-bjj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Joseph-bjj&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
   
 <p align="center">
-  <a href="https://github.com/godwincod3s">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&pause=1000&color=1B3E71&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Godwin+Ogbodo!+%F0%9F%9A%80;Fullstack+Engineer+%7C+Problem+Solver+%7C+AI+Builder;Next.js+%E2%9D%A4%EF%B8%8F+Node.js+%E2%9D%A4%EF%B8%8F+MongoDB+%E2%9D%A4%EF%B8%8F+TypeScript" alt="Typing SVG" />
+  <a href="https://github.com/Joseph-bjj">
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&pause=1000&color=1B3E71&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Joseph+Nnam!+%F0%9F%9A%80;Fullstack+Engineer+%7C+Problem+Solver+%7C+AI+Builder;Next.js+%E2%9D%A4%EF%B8%8F+Node.js+%E2%9D%A4%EF%B8%8F+MongoDB+%E2%9D%A4%EF%B8%8F+TypeScript" alt="Typing SVG" />
   </a>
 </p>
 
